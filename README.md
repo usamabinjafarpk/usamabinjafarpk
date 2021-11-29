@@ -5,3 +5,13 @@
 
 ![usamabinjafarpk GitHub stats](https://github-readme-stats.vercel.app/api?username=usamabinjafarpk&show_icons=true&theme=radical)
 <hr></hr>
+
+
+[<img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" with="20" height="20">](https://https://www.linkedin.com/in/usama-bin-jafar-pk-a8115b1ba/)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" with="20" height="20">](https://www.instagram.com/usampkvelleri/)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/facebook.svg " with="20" height="20">](https://www.facebook.com/usampk.velleri)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/twitter.svg" with="20" height="20">](https://twitter.com/USAMABINJAFARP1)
+[<img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" with="20" height="20">](mailto:usamabinjafarpk335@gmail.com)
+
+
+
